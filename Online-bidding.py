@@ -3,7 +3,7 @@
 # %% [markdown]
 # # Import libraries:
 # %% [markdown]
-# The dataset can be downloaded from (https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot/data) or https://drive.google.com/drive/folders/1vXUVwal2sGqNn-uINu2D0lnor-Dljq-R?usp=sharing
+# The dataset can be downloaded from (https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot/data)
 
 # %%
 import pandas as pd
